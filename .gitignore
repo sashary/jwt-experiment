@@ -1,0 +1,12 @@
+venv
+*.log
+*.pyc
+.ipynb_checkpoints
+.mypy_cache
+.vscode
+env*
+.env*
+.venv/
+.vscode/
+venv/
+.venvgit
